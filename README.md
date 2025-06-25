@@ -3,10 +3,10 @@
   <img src="images/Nametag.png" alt="Aadi Biswas nametag" width="350">
 </h1>
 
-
 **Ex-Military Data Scientist** | **CS & Math @ Harvey Mudd** | **Quant Finance & AI/ML Enthusiast**
 
 ## 👋 About Me
+
 Data scientist turned quant-in-training. Curious about markets, models, and machine intelligence!<br><br>
 
 - 📊 Skills: **Predictive Modeling**, **Time Series Analysis**, **Reinforcement Learning**, and **Cryptography**<br><br>
@@ -15,10 +15,11 @@ Data scientist turned quant-in-training. Curious about markets, models, and mach
 
 - 🧠 Exploring: **Statistical Arbitrage**, **Risk Modeling**, **Deep Learning**, and **Generative Models**<br><br>
 
-## 🔬 Research
 
+## 💪 Currently Working On 
+- [Reinforced Learning for Portfolio Optimization](https://github.com/AadiBiswas/rl-portfolio-opt)
 
-
+- Biomechanical/Biomathematical Research with UC San Diego (stay tuned!)
 
 ## 🌐 Let's Connect!
 [LinkedIn] > https://www.linkedin.com/in/aadibiswas<br><br>
