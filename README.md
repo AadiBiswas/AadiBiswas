@@ -17,9 +17,9 @@ Data scientist turned quant-in-training. Curious about markets, models, and mach
 
 
 ## 💪 Currently Working On 
-- [Reinforced Learning for Portfolio Optimization](https://github.com/AadiBiswas/rl-portfolio-opt)
+- [Reinforced Learning for Portfolio Optimization](https://github.com/AadiBiswas/rl-portfolio-opt)<br><br>
 
-- Biomechanical/Biomathematical Research with UC San Diego (stay tuned!)
+- Biomechanical/Biomathematical Research with UC San Diego (stay tuned!)<br><br>
 
 ## 🌐 Let's Connect!
 [LinkedIn] > https://www.linkedin.com/in/aadibiswas<br><br>
