@@ -17,7 +17,7 @@ Data scientist turned quant-in-training. Curious about markets, models, and mach
 
 
 ## 💪 Currently Working On 
-- [Reinforced Learning for Portfolio Optimization](https://github.com/AadiBiswas/rl-portfolio-opt)<br><br>
+- [Statistical Abritrage Engine](https://github.com/AadiBiswas/stat-arb-engine)<br><br>
 
 - Biomechanical/Biomathematical Research with UC San Diego (stay tuned!)<br><br>
 
