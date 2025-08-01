@@ -17,7 +17,7 @@ Data scientist turned quant-in-training. Curious about markets, models, and mach
 
 
 ## 💪 Currently Working On 
-- [Statistical Abritrage Engine](https://github.com/AadiBiswas/stat-arb-engine)<br><br>
+- [Neural Stochastic Differential Equation (SDE) Simulator](https://github.com/AadiBiswas/NeuralSDE_CPP)<br><br>
 
 - Biomechanical/Biomathematical Research with UC San Diego (stay tuned!)<br><br>
 
