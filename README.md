@@ -3,25 +3,36 @@
   <img src="images/Nametag.png" alt="Aadi Biswas nametag" width="350">
 </h1>
 
-**Ex-Military Data Scientist** | **CS & Math @ Harvey Mudd** | **Quant Finance & AI/ML Enthusiast**
+**CS & Math @ Harvey Mudd · Economics @ Claremont McKenna · Ex-Military Intelligence · Equities, Markets, and Quantitative Finance**
 
-## 👋 About Me
+I'm Aadi, a student at Harvey Mudd interested in **quantitative trading, quantitative research, and public markets**.
 
-Data scientist turned quant-in-training. Curious about markets, models, and machine intelligence!<br><br>
+I've explored the union of **markets, statistics, and software**, from market microstructure and systmeatic strategies to fundamental equity research and valuation. 
 
-- 📊 Skills: **Predictive Modeling**, **Time Series Analysis**, **Reinforcement Learning**, and **Cryptography**<br><br>
+## Experience
 
-- 🔍 Interests: **Quant Trading**, **Quant Research**, and **AI/ML** <br><br>
+- **Quantitative Research @ Ingenuity Trading:** market microstructure, liquidity, transaction costs, ETF pricing, and institutional trade analytics
+- **Portfolio Manager @ Sagehen Capital Management:** TMT equities, fundamental research, valuation, and portfolio construction
+- **Investment Analyst @ Centre Court Capital:** company research, valuation, diligence, and investment memos
+- **Data Scientist @ Military Intelligence, Singapore Armed Forces:** time-series forecasting, statistical analysis, and operational decision-support systems
 
-- 🧠 Exploring: **Statistical Arbitrage**, **Risk Modeling**, **Deep Learning**, and **Generative Models**<br><br>
+## Interests
 
+**Quantitative Trading** · **Market Microstructure** · **Statistical Arbitrage** · **Systematic Investing** · **Equity Research** · **Valuation** · **Portfolio Management**
 
-## 💪 Currently Working On 
-- [Neural Stochastic Differential Equation (SDE) Simulator](https://github.com/AadiBiswas/NeuralSDE_CPP)<br><br>
+## Selected Work
 
-- Biomechanical/Biomathematical Research with UC San Diego (stay tuned!)<br><br>
+- [Neural SDE Simulator](https://github.com/AadiBiswas/NeuralSDE_CPP): stochastic differential equation simulation in C++
+- Statistical arbitrage and market-modeling projects
+- Reinforcement-learning approaches to portfolio optimization
+- Quantitative research tooling for financial and time-series data
 
-## 🌐 Let's Connect!
-[LinkedIn] > https://www.linkedin.com/in/aadibiswas<br><br>
+## Tools
 
+**Python · C++ · R · SQL · Java**  
+Pandas · NumPy · Scikit-learn · PyTorch · JAX · Linux · Git
 
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/aadibiswas)
+[Email](Aabiswas@g.hmc.edu)
